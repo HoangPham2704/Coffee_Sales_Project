@@ -19,14 +19,14 @@ This Excel Data Analysis project focuses on coffee sales, offering insights into
 
 - **Coffee Bag Size Selector:** This selector allows users to filter data based on the size of coffee bag sold.
 
-- **Top 5 Customers Chart:** A chart showcasing the top 5 customers based on their purchase history.
-
 - **Sales by Countries Chart:** A chart representing sales data by geographical regions or countries.
 
-## Prerequisites
-To work with this project, you will need:
+- **Top 5 Customers Chart:** A chart showcasing the top 5 customers based on their purchase history.
 
-- Microsoft Excel installed on your computer.
+## Prerequisites
+To access this project, you will need:
+
+- Microsoft Excel and Power BI installed on your computer.
 
 ## Acknowledgments
 
