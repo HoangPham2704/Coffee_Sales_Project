@@ -3,6 +3,13 @@
 ## Overview
 This Excel Data Analysis project focuses on coffee sales, offering insights into sales trends, customer preferences, and geographical distribution. The project is designed to provide users with an interactive view of coffee sales data over a specific time span, allowing them to explore data related to coffee types, loyalty card usage, and coffee bag sizes.
 
+## How to Use
+1. Open the Excel file [Coffee_Sales.xlsx](https://github.com/HoangPham2704/Coffee_Sales_Project/blob/main/Coffee_Sales.xlsx) or Power BI Dashboard [Coffee Sale Dashboard.pbix](https://github.com/HoangPham2704/Coffee_Sales_Project/blob/main/Coffee%20Sale%20Dashboard.pbix)
+
+2. Navigate to the "Order Date" slicer to interact with the data.
+
+3. Use the provided selectors to filter data based on your preferences. You can select a specific time span, coffee type, loyalty card status, and coffee bag size.
+
 ## Project Components
 - **Timestamp Dashboard:** Users can view and interact with the data to analyze coffee sales in various time spans.
 
@@ -15,15 +22,6 @@ This Excel Data Analysis project focuses on coffee sales, offering insights into
 - **Top 5 Customers Chart:** A chart showcasing the top 5 customers based on their purchase history.
 
 - **Sales by Countries Chart:** A chart representing sales data by geographical regions or countries.
-
-## How to Use
-1. Open the Excel file named [Coffee_Sales.xlsx](https://github.com/HoangPham2704/Coffee_Sales_Project/blob/main/Coffee_Sales.xlsx).
-
-2. Navigate to the "Timestamp Dashboard" sheet to interact with the data.
-
-3. Use the provided selectors to filter data based on your preferences. You can select a specific time span, coffee type, loyalty card status, and coffee bag size.
-
-4. Explore the "Top 5 Customers" and "Sales by Countries" charts for additional insights.
 
 ## Prerequisites
 To work with this project, you will need:
